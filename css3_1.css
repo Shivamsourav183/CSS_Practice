@@ -1,0 +1,102 @@
+/* #box{
+    height: 150px;
+     width: 300px;  
+    background-color: rgb(128, 128, 128);
+    border: 5px, black, dotted;
+    margin-top: 20px;
+    margin-right: 1em;
+    margin-bottom: 40px;
+    margin-left: 2em;
+    padding: 1em;
+} */
+
+
+/* div{
+    height: 100px;
+    width: 100px;
+    border: 2px black solid;
+    background-color: pink;
+    border-radius: 50%;
+    display: inline-block;
+} */
+
+/* li{
+    display: inline;
+} */
+
+/* div{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    transition-duration: 1s;
+    margin-top: 50px;
+    margin:0 auto;
+    transition: margin-top 2s ease 0.2s;
+   
+}
+
+div:hover {
+    margin-top: 400px;
+    background-color: red;
+    border-radius: 50%;
+    
+} */
+
+/* 
+section{
+    margin-top: 100px;
+}
+
+div{
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    background-color: green;
+    border: 2px solid black;
+    margin: 10px auto;
+    
+    
+}
+
+div:nth-of-type(2n){
+    background-color: rgb(188, 100, 100);
+}
+
+div:nth-of-type(3n){
+    background-color: rgb(131, 166, 14);
+}
+
+
+#one{
+    transform: rotate(0 deg);
+   
+}
+
+#two{
+    transform: scale(0.5);
+}
+
+#three{
+    transform: translateY(300px);
+}
+
+
+#four{
+    transform: skew(30deg)
+}
+
+#five{
+    transform: rotate(45deg) translate(10px) skew(30deg) scale(2)
+} */
+
+
+
+div{
+    height: 200px;
+    width: 400px;
+    background-color: rgb(17, 209, 227);
+    margin: 10px auto;
+    background-image: url("bg.jpg");
+    background-size: cover;
+    
+}

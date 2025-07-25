@@ -1,0 +1,57 @@
+/* h1 {
+    color:red;
+    background-color: gray;
+}
+
+p {
+    color: burlywood;
+    background-color: aqua;
+}
+
+button {
+    color:darkorange;
+    background-color: aquamarine;
+} */
+
+
+
+/* h2 {
+    color: rgb(255, 255,0);
+}
+
+p {
+    color: white;
+    background-color: black;
+}
+
+button {
+    color: white;
+    background-color: blue;
+} */
+
+/* 
+h1 {
+    text-align: center; */
+    /* border: solid;
+    width: 100%; */
+    /* text-decoration: underline;
+}
+
+h3{
+    font-weight: 900;
+    text-decoration: red line-through;
+} */
+
+
+
+h1 {
+    font-family: 'Lucida Sans';
+    color: #ffa511;
+    font-size: 50px;
+    font-weight: 900;
+    letter-spacing: 2px;
+    line-height: 1.5x;
+    text-align: center;
+    text-decoration: teal double underline;
+    text-transform: uppercase;
+}
